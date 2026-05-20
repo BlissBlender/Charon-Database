@@ -1,0 +1,4 @@
+*.lua text eol=lf
+*.json text eol=lf
+*.manifest binary
+*.zip binary
